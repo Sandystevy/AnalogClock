@@ -1,2 +1,2 @@
 # AnalogClock
-[Click To Open](analogclockhappilyfab.netlify.app).
+[Click To Open](https://analogclockhappilyfab.netlify.app/).
